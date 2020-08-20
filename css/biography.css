@@ -1,0 +1,27 @@
+#page-title{
+    text-align: left;
+}
+
+p{
+  font-weight: normal;
+  font-size: 17px;
+  font-family:Sans-serif;
+  text-align: justify;
+  line-height: 1.8;
+  word-spacing:5px;
+}
+
+a {
+  color: red;
+}
+blockquotes{
+  font-weight: normal;
+  font-size: 17px;
+  font-family:Sans-serif;
+  text-align: justify;
+}
+h1 h2 {
+  font-weight: bold;
+  font-size: 25px;
+  font-family:Sans-serif;
+}
